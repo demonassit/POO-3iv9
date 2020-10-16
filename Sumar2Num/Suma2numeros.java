@@ -23,7 +23,16 @@ class Suma2numeros{
             //hacer la accion
             System.out.println("Ingresa el numero a sumar: ");
             num1 = entrada.nextInt();  //leer el siguiente entero
-            resultado = resultado + num1;
+
+            //como puedo saber si es positivo
+            // si (num > 0 ){   que sume} sino {Escribir "el numero es negativo"}
+            if(num1 > 0){
+                resultado = resultado + num1;
+            }else{
+                System.out.println("Escribe de nuevo el numero, ya que solo se aceptan positivos");
+            }
+
+            
         }while(num1!=0);
 
         // mientras no sea cero   
