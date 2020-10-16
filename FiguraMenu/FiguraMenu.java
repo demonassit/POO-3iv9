@@ -34,6 +34,7 @@ class FiguraMenu{
         System.out.println("1.- Calcular area de un cuadrado");
         System.out.println("2.- Calcular area de un triangulo");
         System.out.println("3.- Calcular area de un circulo");
+        System.out.println("Gracias uwu");
         System.out.println("4.- Salir");
 
         opcion = entrada.nextInt();
