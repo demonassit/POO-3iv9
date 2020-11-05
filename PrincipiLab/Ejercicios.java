@@ -112,10 +112,20 @@ public class Ejercicios{
 
     public void Conversion(){
         //porque soy chiquito *w*
+        /*
+        quiero conversiones de:
+
+        metros a cm
+        metros a pulgadas
+        kilogramos a libras
+        kilogramos a onzas
+        m/s a KM/s
+        */ 
     }
 
     public void CreaCuadros(){
         //porque soy chiquito *w*
+        //yo lo hago wiiiiiiii
     }
 
     public void MoviCuadros(){
