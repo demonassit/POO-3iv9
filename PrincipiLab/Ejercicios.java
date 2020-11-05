@@ -31,22 +31,22 @@ public class Ejercicios{
 
         switch(op){
 
-            case a:
+            case 'a':
                 //vamos a crear un metodo para la calculadora
                 Calculadora();
                 break;
 
-            case b:
+            case 'b':
                 //vamos a crear un metodo para la conversion de unidades
                 Conversion();
                 break;
 
-            case c:
+            case 'c':
                 //vamos a crear un metodo para la creacion de cuadros
                 CreaCuadros();
                 break;
 
-            case d:
+            case 'd':
                 //vamos a crear un metodo para movimiento en cuadro
                 MoviCuadros();
                 break;
@@ -69,7 +69,7 @@ public class Ejercicios{
         operacion = entrada.next().charAt(0);
 
         switch(operacion){
-            case a:
+            case 'a':
                 //que sume y sume y sume
                 do{
                     System.out.println("Para parar la operacion presione '0'");
@@ -84,7 +84,7 @@ public class Ejercicios{
                 System.out.println("La suma de los numeros es de: " +suma);
                 break;
 
-            case b:
+            case 'b':
                  //que multiplique
                  do{
                     System.out.println("Para parar la operacion presione '0'");
@@ -104,7 +104,7 @@ public class Ejercicios{
                 System.out.println("La multiplicacion de los numeros es de: " +multi);
                 break;
 
-            case c:
+            case 'c':
                 //ahi lo terminan soy flojito (uwu)/
                 break;
         }
