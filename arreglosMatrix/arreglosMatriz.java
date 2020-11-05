@@ -46,8 +46,11 @@ public class arreglosMatriz{
                 sumarFilas += matriz[i][j];
                 System.out.print(String.format("%d", matriz[i][j]));
             }
-            System.out.println(String.format("\nSumar de las filas: %f, Promedio de la fila: %f", sumarFilas, sumarFilas/matriz.length ));
+            System.out.println(String.format("\nSumar de las filas: %f, 
+            Promedio de la fila: %f", sumarFilas, sumarFilas/matriz.length ));
         }
+
+        //1+1 = 11    1+1 = 2
 
         
     }
