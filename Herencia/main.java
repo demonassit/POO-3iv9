@@ -2,6 +2,13 @@
 Esta va a ser la clase principal que hara las invocaciones
 de los objetos y metodos
 
+
+agreguen 
+
+caballos, patos, hamster y tortuguitas *w*
+
+con un metodo para ingresar los datos
+
 */
 
 
