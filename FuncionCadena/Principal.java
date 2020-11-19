@@ -7,5 +7,8 @@ public class Principal{
 
         cadena cade = new cadena();
         cade.cadena();
+
+        cadenainvertida inver = new cadenainvertida();
+        inver.cadenainvertida();
     }
 }
