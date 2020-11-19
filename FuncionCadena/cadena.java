@@ -51,10 +51,15 @@ public class cadena{
         //un valor con fraccion
 
         String s4 = "12.5";
+        String s10 = "1";
 
         double num = Double.parseDouble(s4);
 
         System.out.println("El numero es: "+ num + "La cadena es: "+ s4);
+
+        String resu = s4+s10;
+
+        System.out.println(resu);
 
         //vamos a convertir una variable en una cadena
 
@@ -76,5 +81,5 @@ public class cadena{
 
     }
 
-    
+
 }
