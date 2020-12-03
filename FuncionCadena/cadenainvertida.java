@@ -36,6 +36,7 @@ public class cadenainvertida{
             char car = cadena.charAt(i); //para obtener cada una de las posiciones
             //debo asignarlo a la cadena invertida
             cadenainvertida = cadenainvertida+car;
+            //System.out.println(car);
             //cadenainvertida += car;
         }
 
