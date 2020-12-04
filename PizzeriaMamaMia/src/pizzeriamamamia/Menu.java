@@ -36,6 +36,7 @@ public class Menu {
             case 1:
                 //polomorfismo
                 piza = new Queso();
+                
                 Queso ques = new Queso();
                 ques.elegirtipoqueso();
                 //me pregunte que tipo de queso quiero?

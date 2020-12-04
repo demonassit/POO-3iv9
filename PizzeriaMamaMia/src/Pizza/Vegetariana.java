@@ -23,6 +23,10 @@ public class Vegetariana extends Pizza {
         this.ingredientes[3] = "Elote";
         
     }
+    
+    public Vegetariana(String masa){
+        //aqui pueda modificar el comportamiento de la masa
+    }
 
     
     

@@ -11,8 +11,8 @@ package Pizza;
  */
 public class Pizza {
     
-    private String masa;
-    private String[] salsa;
+    private String masa;  //rellena de queso, crunch, con ajo
+    private String[] salsa; //quiero una salva barbique, tomate, hiervas finas
     protected String[] ingredientes;
     
     public Pizza(){
@@ -60,7 +60,7 @@ public class Pizza {
     }
     
     public void empacar(){
-        System.out.println("La pizza se empaja en una cajita de corazon");
+        System.out.println("La pizza se empaca en una cajita de corazon");
     }
     
     
